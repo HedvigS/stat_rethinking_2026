@@ -1,7 +1,7 @@
 Statistical Rethinking (2026 Edition)
 ===============
 
-Registration: <[Google Form](https://docs.google.com/forms/d/e/1FAIpQLScHtJwPDgbewUXiHVshDvxJ_k_dDHZi5nUoNn2Si9m6SO3WDQ/viewform?usp=sharing&ouid=105688155773317046992)>
+Registration: Is closed
 
 Instructor: Richard McElreath
 
